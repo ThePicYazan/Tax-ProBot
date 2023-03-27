@@ -1,0 +1,12 @@
+C:\Users\j\source\repos\Thx ProBot\Thx ProBot\bin\Debug\Thx ProBot.exe.config
+C:\Users\j\source\repos\Thx ProBot\Thx ProBot\bin\Debug\Thx ProBot.exe
+C:\Users\j\source\repos\Thx ProBot\Thx ProBot\bin\Debug\Thx ProBot.pdb
+C:\Users\j\source\repos\Thx ProBot\Thx ProBot\bin\Debug\Thx ProBot.xml
+C:\Users\j\source\repos\Thx ProBot\Thx ProBot\obj\Debug\Thx ProBot.vbprojAssemblyReference.cache
+C:\Users\j\source\repos\Thx ProBot\Thx ProBot\obj\Debug\Thx_ProBot.Resources.resources
+C:\Users\j\source\repos\Thx ProBot\Thx ProBot\obj\Debug\Thx ProBot.vbproj.GenerateResource.cache
+C:\Users\j\source\repos\Thx ProBot\Thx ProBot\obj\Debug\Thx ProBot.vbproj.CoreCompileInputs.cache
+C:\Users\j\source\repos\Thx ProBot\Thx ProBot\obj\Debug\Thx ProBot.exe
+C:\Users\j\source\repos\Thx ProBot\Thx ProBot\obj\Debug\Thx ProBot.xml
+C:\Users\j\source\repos\Thx ProBot\Thx ProBot\obj\Debug\Thx ProBot.pdb
+C:\Users\j\source\repos\Thx ProBot\Thx ProBot\obj\Debug\Thx_ProBot.tax.resources
